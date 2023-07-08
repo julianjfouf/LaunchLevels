@@ -20,13 +20,11 @@ export default function Home() {
         <title>Launch Levels</title>
         <meta
           name="description"
-          content="Website Design in Tracy, California. Video Editing & Content Creation in Tracy, California. Social Media Marketing Agency in Tracy California."
+          content="The #1 website design + development, content creation + video editing, and social media marketing and advertising agency in Tracy, California."
         ></meta>
         <meta
           name="keywords"
-          content="Web Design, Content Creation, Social Media Marketing Agency, Social Media Outreach, Web Development, Website Development, Website Design, Graphic Design, Advertising, Social Media Advertising, Video Editing,
-                   Web Design in Tracy, Content Creation in Tracy, Social Media Marketing Agency in Tracy, Social Media Outreach in Tracy, Web Development in Tracy, Website Development in Tracy, Website Design in Tracy, Graphic Design in Tracy, Advertising in Tracy, Social Media Advertising in Tracy, Video Editing in Tracy,
-                   Web Design in Tracy California, Content Creation in Tracy California, Social Media Marketing Agency in Tracy California, Social Media Outreach in Tracy California, Web Development in Tracy California, Website Development in Tracy California, Website Design in Tracy California, Graphic Design in Tracy California, Advertising in Tracy California, Social Media Advertising in Tracy California, Video Editing in Tracy California"
+          content="The #1 website design + development, content creation + video editing, and social media marketing and advertising agency in Tracy, California."
         ></meta>
         <meta
           name="viewport"
