@@ -5,7 +5,7 @@ const Card = ({ number, title, points, picture }) => {
   return (
     <div className="xl:w-1/3 w-full min-h-max p-4 z-10">
       <div className="flex xl:flex-col lg:flex-row flex-col h-full relative justify-between p-4 pt-16 rounded-lg border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,100)] bg-[#FF6565] z-10">
-        <div className="absolute top-3 right-3 left-3 flex justify-between">
+        <div className="absolute top-0 right-0 left-0 p-3 pb-2 rounded-[4px] flex justify-between bg-white">
           <div className="flex gap-3">
             <div className="h-4 w-4 border-[3px] border-black rounded-full top-3 left-3"></div>
             <div className="h-4 w-4 border-[3px] border-black rounded-full top-3 left-3"></div>

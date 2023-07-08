@@ -68,7 +68,7 @@ const Contact = () => {
           onSubmit={handleSubmit}
           className="bg-[#FFCC9D] relative flex flex-col w-full rounded-lg border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,100)] p-8 pt-20 z-10"
         >
-          <div className="absolute top-3 right-3 left-3 flex justify-between">
+          <div className="absolute top-0 right-0 left-0 p-3 pb-2 rounded-[4px] flex justify-between bg-white">
             <div className="flex gap-3">
               <div className="h-4 w-4 border-[3px] border-black rounded-full top-3 left-3"></div>
               <div className="h-4 w-4 border-[3px] border-black rounded-full top-3 left-3"></div>
