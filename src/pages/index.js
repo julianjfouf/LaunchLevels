@@ -18,6 +18,7 @@ export default function Home() {
     <>
       <Head>
         <title>Launch Levels</title>
+        <link rel="icon" href="/icons/icon.svg" type="image/svg+xml" />
         <meta
           name="description"
           content="The #1 website design + development, content creation + video editing, and social media marketing and advertising agency in Tracy, California."

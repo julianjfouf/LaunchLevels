@@ -8,3 +8,8 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+
+*::selection {
+  background: #C5FF52;
+  
+}
