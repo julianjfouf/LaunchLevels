@@ -47,7 +47,7 @@ export default function Home() {
         </div>
         <Image
           src={noise}
-          className="absolute top-0 left-0 h-full w-full z-0 opacity-5 object-cover"
+          className="absolute top-0 left-0 h-full w-full z-0 opacity-[0.03] object-cover"
         />
       </main>
     </>
