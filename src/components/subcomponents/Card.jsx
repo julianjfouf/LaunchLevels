@@ -11,9 +11,17 @@ const Card = ({ number, title, points, picture }) => {
           </div>
           <div className="flex flex-col sm:items-start items-center">
             <h1 className="text-4xl z-10 sm:text-left text-center">{title}</h1>
-            <ul className="list-disc pl-8 mt-4 text-xl z-10">
+            <ul className="pl-8 mt-2 text-xl z-10">
               {points.map((point) => (
-                <li>{point}</li>
+                <li className="flex items-center gap-4 py-2">
+                  <div className="bg-white relative border-2 border-black rounded-full h-8 w-8 shadow-[2px_2px_0px_0px_rgba(0,0,0,100)]">
+                    <div className="relative flex w-full h-full justify-center items-center">
+                      <div className="bg-black w-2 absolute h-[3px] translate-y-[3px] -translate-x-[3px] rotate-[45deg]"></div>
+                      <div className="bg-black w-4 absolute h-[3px] translate-x-[3px] -rotate-[60deg]"></div>
+                    </div>
+                  </div>
+                  {point}
+                </li>
               ))}
             </ul>
           </div>
