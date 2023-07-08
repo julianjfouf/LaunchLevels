@@ -43,9 +43,15 @@ const Contact = () => {
           will get in touch with you as soon as we receive your message.
         </p>
         <div className="flex gap-2 z-10">
-          <Image src={icon1} className="h-8 w-8 z-10" />
-          <Image src={icon2} className="h-8 w-8 z-10" />
-          <Image src={icon3} className="h-8 w-8 z-10" />
+          <a href="https://www.instagram.com/launchlevels/" target="_blank">
+            <Image src={icon2} className="h-8 w-8 z-10" />
+          </a>
+          <a
+            href="https://www.facebook.com/profile.php?id=100094516539154"
+            target="_blank"
+          >
+            <Image src={icon3} className="h-8 w-8 z-10" />
+          </a>
         </div>
       </div>
     </div>
