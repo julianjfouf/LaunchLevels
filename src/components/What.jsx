@@ -28,9 +28,11 @@ const What = () => {
             number="2"
             title="Content Creation"
             points={[
-              "Unlimited Revisions",
-              "Full Refunds",
-              "Monthly Maintenance",
+              "Custom Media Campaigns",
+              "4 Video Shorts/Cinematic Works",
+              "Data Driven Strategy",
+              "3D Modeling Services",
+              "Creative & Influential Development",
             ]}
             picture={picture3}
           />
@@ -38,12 +40,11 @@ const What = () => {
             number="3"
             title="Social Media Outreach"
             points={[
-              "Unlimited Revisions",
-              "Full Refunds",
-              "Monthly Maintenance",
-              "Single - Multi Page",
-              "Increased Web Traffic",
-              "Higher Search Rankings",
+              "Facebook Advertising",
+              "Google Advertising",
+              "Local Onpage SEO",
+              "Content Marketing Alignment",
+              "Marketing Discovery",
             ]}
             picture={picture4}
           />
