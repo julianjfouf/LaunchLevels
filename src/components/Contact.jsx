@@ -115,7 +115,7 @@ const Contact = () => {
             type="text"
             value={form.message}
             onChange={handleChange}
-            className="p-4 z-10 text-xl ring-none outline-none placeholder:text-xl bg-white placeholder:text-[#3F3F3F] border-4 border-black rounded-xl shadow-[4px_4px_0px_0px_rgba(0,0,0,100)]"
+            className="p-4 z-10 resize-none text-xl ring-none outline-none placeholder:text-xl bg-white placeholder:text-[#3F3F3F] border-4 border-black rounded-xl shadow-[4px_4px_0px_0px_rgba(0,0,0,100)]"
             rows={5}
             required
           />
