@@ -15,6 +15,7 @@ const Work = () => {
       <div className="flex gap-4 z-10">
         <Button
           text="Websites"
+          external={true}
           size="text-[20px]"
           link="https://www.figma.com/proto/zAnriOQgCRns6RBpH9uJce/Work-Presentation?type=design&node-id=1-2&t=RcastHoQnLVD7EwR-0&scaling=min-zoom&page-id=0%3A1"
         />
